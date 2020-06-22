@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+        <link rel="stylesheet" href="style.css">
+        <tittle>Personal WebSites</tittle>
+        </head>
+        <body>
+        <div class="box">
+        <img src="profile.jpg" alt="" class="box-img":>
+        <h1>DarkCode<h1>
+        <h5>Web Developer-Web Designer</h5>
+        <p>I am 14</p>
+        <ul>
+        <li><a href="#"><i class="fa fa-facebook-square" aria hidden="true"></1></a></li>
+        <li><a href="#"><i class="fa fa-facebook-square" aria hidden="true"></1></a></li>
+        <li><a href="#"><i class="fa fa-facebook-square" aria hidden="true"></1></a></li>
+        </ul>
+    </body>
+</html>
